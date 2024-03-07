@@ -1,7 +1,8 @@
-- My name is Bryce Taylor
-- I am an aspiring programmer
-- I am studying CS at the University of Alabama
-- I'm currently learning C++, Python, and other things
+- I am an aspiring software developer
+- I am a Computer Science major at the University of Alabama
+- Graduating with M.S. in Spring 2025
+- Currently learning C/C++, Python, web development with Ruby on Rails, game development, and other things
+- Currently taking classes in computer algorithms, cryptography, and working on a senior project
 
 <!---
 Bryce-T/Bryce-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
